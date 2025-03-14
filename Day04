@@ -53,6 +53,8 @@ The main() method is static so that JVM can invoke it without instantiating the 
 This also saves the unnecessary wastage of memory which would have been used by the
 object declared only for calling the main() method by the JVM.
 
+# java
+
 # Why we use void in main()?
 
 It is a keyword and is used to specify that a method doesn’t return anything.
