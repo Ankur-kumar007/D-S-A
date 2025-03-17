@@ -12,7 +12,7 @@
     java mypackage.Ankur
 
 4. Alternate way to set a class path
-    java -classpath ../bin mypackage.Shashwat
+    java -classpath ../bin mypackage.Ankur
 
 # Data Types ->
 # Primitive data types - includes byte, short, int, long, float, double, boolean and char.
