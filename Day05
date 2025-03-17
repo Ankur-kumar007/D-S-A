@@ -1,15 +1,15 @@
 # Generate byte code in seperate directory
 
 1. To create a class file in same package
-    javac -d . Shashwat.java  
+    javac -d . Ankur.java  
 
 2. To create a class file in different package
-    javac -d ../bin Shashwat.java
+    javac -d ../bin Ankur.java
 
 3. How to run a byte code from a different package?
     you need to set classpath of the directory where the class file resides.
     set classpath=../bin;
-    java mypackage.Shashwat
+    java mypackage.Ankur
 
 4. Alternate way to set a class path
     java -classpath ../bin mypackage.Shashwat
