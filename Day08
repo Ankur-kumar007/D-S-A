@@ -66,7 +66,7 @@ case value2:
 statement2;
 break;
 default:
-default statement; // yha per break laga kr kya faida bhai?
+default statement; // yha per break laga kr kya faida bhai? 
 }
 
 Rules of using a switch case
