@@ -9,7 +9,7 @@ decision-making statements decide which statement to execute and when. It evalua
 a) if statements   
 The control of the program is diverted depending upon the specific condition.
 
-1. Simple If
+1. Simple If   
 if(condition) {
 statement 1; //executes when condition is true
 }
